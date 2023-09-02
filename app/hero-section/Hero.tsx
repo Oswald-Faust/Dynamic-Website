@@ -19,7 +19,7 @@ const Hero = () => {
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
           <Link
-            href="https://drive.google.com/file/d/1XZPlj1js43hdIOH63nF0V_n4x_p80vhw/view"
+            href="https://drive.google.com/file/d/1vg3OvQUZjFmvrF_QkJXmtulbRUeR8pd_/view?usp=sharing"
             target="_blank"
             aria-label="Mon Parcours"
           >
@@ -34,7 +34,7 @@ const Hero = () => {
 
         <div className="flex gap-10 text-[#e4ded7] sm:gap-12 md:gap-14 lg:gap-14">
           <Link
-            href="https://github.com/victorcodess"
+            href="https://github.com/Oswald-Faust"
             target="_blank"
             aria-label="View GitHub Profile"
           >
@@ -46,7 +46,7 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://www.linkedin.com/in/victor-williams-chukwudi/"
+            href="https://www.linkedin.com/in/faust-oswald/"
             target="_blank"
             aria-label="View LinkedIn Profile"
           >
@@ -58,7 +58,7 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://twitter.com/victorwill__"
+            href="https://twitter.com/OswaldFaust2"
             target="_blank"
             aria-label="View Twitter Profile"
           >
@@ -88,7 +88,7 @@ const Hero = () => {
               src={profile}
               priority
               alt="Faust, la tête"
-              data-blobity-tooltip="Ton dev' pref'"
+              data-blobity-tooltip="' Ton dev'pref'"
               data-blobity-invert="false"
               className=" w-[150px] rounded-[16px] grayscale hover:grayscale-0 md:w-[200px] md:rounded-[32px] lg:w-[245px]"
             />
@@ -108,7 +108,7 @@ const Hero = () => {
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
             Frontend Engineer et Developeur UX, actuellement à{" "}
             <Link
-              href="https://crownbrandingagency.com/ "
+              href="https://twitter.com/BridgeAI1 "
               target="_blank"
               className="underline underline-offset-2 hover:no-underline"
               aria-label="Bridge AI Agency"
